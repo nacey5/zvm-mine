@@ -7,6 +7,15 @@ import com.zvm.runtime.OperandStack;
 import com.zvm.runtime.RunTimeEnv;
 import com.zvm.runtime.struct.JObject;
 
+/**
+ * @NAME: System
+ * @USER: DaHuangGO
+ * @DATE: 2022/11/27
+ * @TIME: 15:07
+ * @YEAR: 2022
+ * @MONTH: 11
+ * @DAY: 27
+ */
 public class System {
     /**
      * 本地方法 arraycopy

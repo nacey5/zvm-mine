@@ -5,7 +5,13 @@ import com.zvm.runtime.JavaFrame;
 import com.zvm.runtime.RunTimeEnv;
 
 /**
- * @author Rail
+ * @NAME: NativeUtils
+ * @USER: DaHuangGO
+ * @DATE: 2022/11/27
+ * @TIME: 15:07
+ * @YEAR: 2022
+ * @MONTH: 11
+ * @DAY: 27
  */
 public class NativeUtils {
 
